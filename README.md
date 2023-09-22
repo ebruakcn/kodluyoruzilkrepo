@@ -1,4 +1,4 @@
-![Kodluyoruz Logo](C:\Users\EBRU\Desktop\kodluyoruzilkrepo)
+![](repo.png)
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Kodluyoruz Ilk Repo
